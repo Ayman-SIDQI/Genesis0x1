@@ -11,3 +11,7 @@ Welcome to my 2D game! In order to run the game in simple, no enemy mode, please
 To run the game in enemy mode, simply suffix your map name with "_bonus.ber" and use the command "./so_long_bonus maps/mapname_bonus.ber" in the terminal.
 
 Enjoy the game!
+
+
+https://user-images.githubusercontent.com/90562697/215076540-ac5eb69d-6319-4c2c-b0e7-1486258bb3d3.mov
+
