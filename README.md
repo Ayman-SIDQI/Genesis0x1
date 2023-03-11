@@ -1,3 +1,6 @@
+![68747470733a2f2f67616d652e343273702e6f72672e62722f7374617469632f6173736574732f616368696576656d656e74732f736f5f6c6f6e67652e706e67](https://user-images.githubusercontent.com/90562697/224490910-38de86d6-46c5-41bc-9852-e6178b76b934.png)
+
+
 # Genesis0x1
 Summary: This project is a very small 2D game. Its purpose is to make me work with textures, sprites, and some other very basic gameplay elements.
 
